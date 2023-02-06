@@ -56,3 +56,6 @@ Boolean algebra, Boolean functions, gate logic, elementary logic gates, Hardware
 ![img_16.png](img_16.png)
 ![img_17.png](img_17.png)
 ![img_18.png](img_18.png)
+
+
+### Hareware Simulation 
