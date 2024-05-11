@@ -7,7 +7,7 @@
 
 [Home Page](https://www.nand2tetris.org/)
 
-![img.png](../../img.png)
+![img.png](img_0.png)
 
 ## Key Concept 
 Boolean algebra, Boolean functions, gate logic, elementary logic gates, Hardware Description Language (HDL), hardware simulation.
@@ -26,10 +26,6 @@ Boolean algebra, Boolean functions, gate logic, elementary logic gates, Hardware
     *   You have experienced implementing abstractions
     *   You have learned what was needed for every step
     
-
-![img.png](../../images/img.png)
-![img_1.png](../../images/img_1.png)
-
 
 ### Boolean Operations
 
